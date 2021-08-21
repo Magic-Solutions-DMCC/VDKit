@@ -7,7 +7,7 @@
 
 import Foundation
 
-@resultBuilder
+@_functionBuilder
 public struct SingleBuilder<T> {
 	
 	public static func buildBlock(_ components: T) -> T {
