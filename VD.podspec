@@ -11,7 +11,7 @@ s.homepage         = 'https://github.com/dankinsoid/VDKit'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'voidilov' => 'voidilov@gmail.com' }
-s.source           = { :git => 'https://github.com/dankinsoid/VDKit.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/Magic-Solutions-DMCC/VDKit.git' }
 
 s.ios.deployment_target = '11.0'
 s.ios.public_header_files =  'Sources/VDKit/Runtime/**/*.h'
